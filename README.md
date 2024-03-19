@@ -57,6 +57,6 @@ After running yarn dev, the following menu will be displayed:
 - Exit: It will exit the menu.
 ```
 
-## Resultados
+## Results
 
 The processed images will be found in the `public/assets/images-minified` folder.
